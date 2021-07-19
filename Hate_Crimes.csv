@@ -1,0 +1,607 @@
+County,Year,Crime Type,Anti-White,Anti-Black,Anti-American Indian/Alaskan Native,Anti-Asian,Anti-Native Hawaiian/Pacific Islander,Anti-Multi-Racial Groups,Anti-Other Race,Total Offenders
+Albany,2010,Crimes Against Persons,0,9,0,0,0,0,0,9
+Albany,2010,Property Crimes,0,1,0,0,0,0,0,1
+Albany,2011,Crimes Against Persons,0,4,0,0,0,0,0,4
+Albany,2011,Property Crimes,0,1,0,0,0,1,0,2
+Albany,2012,Crimes Against Persons,0,1,0,1,0,0,0,2
+Albany,2012,Property Crimes,0,1,0,0,0,0,0,1
+Albany,2013,Crimes Against Persons,1,0,0,0,0,0,0,1
+Albany,2013,Property Crimes,0,1,0,0,0,0,0,1
+Albany,2014,Crimes Against Persons,0,1,0,0,0,0,0,1
+Albany,2014,Property Crimes,0,0,0,0,0,0,0,0
+Albany,2015,Crimes Against Persons,2,1,0,0,0,0,0,3
+Albany,2016,Crimes Against Persons,0,1,0,0,0,0,0,1
+Albany,2016,Property Crimes,0,2,0,0,0,0,0,2
+Albany,2017,Crimes Against Persons,2,3,0,0,0,0,0,5
+Albany,2017,Property Crimes,0,1,0,0,0,0,0,1
+Albany,2018,Crimes Against Persons,1,3,0,0,0,0,0,4
+Albany,2018,Property Crimes,0,1,0,1,0,0,0,2
+Albany,2019,Crimes Against Persons,2,2,0,0,0,0,0,4
+Albany,2019,Property Crimes,0,1,0,0,0,0,0,1
+Allegany,2013,Crimes Against Persons,0,0,1,0,0,0,0,1
+Allegany,2016,Property Crimes,0,1,0,0,0,0,0,1
+Allegany,2018,Property Crimes,0,1,0,0,0,0,0,1
+Bronx,2010,Crimes Against Persons,0,0,0,0,0,1,0,1
+Bronx,2010,Property Crimes,0,1,0,0,0,2,0,3
+Bronx,2011,Crimes Against Persons,2,3,0,0,0,0,0,5
+Bronx,2011,Property Crimes,0,1,0,0,0,1,0,2
+Bronx,2012,Crimes Against Persons,0,2,0,0,0,0,0,2
+Bronx,2012,Property Crimes,0,6,0,0,0,1,0,7
+Bronx,2013,Crimes Against Persons,2,2,0,0,0,0,0,4
+Bronx,2013,Property Crimes,0,1,0,0,0,0,0,1
+Bronx,2014,Crimes Against Persons,1,4,0,0,0,1,0,6
+Bronx,2014,Property Crimes,0,1,0,0,0,0,0,1
+Bronx,2015,Crimes Against Persons,1,2,0,1,0,0,0,4
+Bronx,2015,Property Crimes,0,3,0,0,0,0,0,3
+Bronx,2016,Crimes Against Persons,1,0,0,0,0,0,0,1
+Bronx,2016,Property Crimes,1,0,0,0,0,0,0,1
+Bronx,2017,Crimes Against Persons,2,1,0,0,0,0,0,3
+Bronx,2017,Property Crimes,0,2,0,0,0,0,0,2
+Bronx,2018,Crimes Against Persons,2,1,0,0,0,0,0,3
+Bronx,2018,Property Crimes,0,2,0,0,0,1,0,3
+Bronx,2019,Crimes Against Persons,4,0,0,0,0,0,0,4
+Bronx,2019,Property Crimes,1,2,0,0,0,0,0,3
+Broome,2010,Crimes Against Persons,0,1,0,0,0,0,0,1
+Broome,2011,Crimes Against Persons,0,0,0,0,0,0,0,0
+Broome,2011,Property Crimes,0,0,0,0,0,0,0,0
+Broome,2012,Crimes Against Persons,0,2,0,0,0,0,0,2
+Broome,2012,Property Crimes,0,1,0,0,0,0,0,1
+Broome,2013,Crimes Against Persons,0,1,0,0,0,0,0,1
+Broome,2013,Property Crimes,0,0,0,0,0,0,0,0
+Broome,2014,Property Crimes,0,0,0,0,0,0,0,0
+Broome,2015,Crimes Against Persons,0,1,0,0,0,0,0,1
+Broome,2016,Crimes Against Persons,0,1,0,1,0,0,0,2
+Broome,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Broome,2018,Crimes Against Persons,0,1,0,0,0,0,0,1
+Broome,2018,Property Crimes,0,1,0,0,0,0,0,1
+Broome,2019,Crimes Against Persons,0,1,0,0,0,0,0,1
+Cattaraugus,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Cattaraugus,2012,Crimes Against Persons,0,1,0,0,0,0,0,1
+Cattaraugus,2013,Crimes Against Persons,1,0,0,0,0,0,0,1
+Cattaraugus,2015,Crimes Against Persons,0,1,0,0,0,0,0,1
+Cattaraugus,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Cattaraugus,2019,Crimes Against Persons,0,1,0,0,0,0,0,1
+Cayuga,2010,Crimes Against Persons,1,0,0,0,0,0,0,1
+Cayuga,2012,Crimes Against Persons,0,3,0,0,0,0,0,3
+Cayuga,2015,Crimes Against Persons,0,0,0,0,0,0,0,0
+Cayuga,2016,Property Crimes,0,0,0,0,0,0,0,0
+Cayuga,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Cayuga,2018,Crimes Against Persons,0,1,0,0,0,0,0,1
+Chautauqua,2010,Crimes Against Persons,0,1,0,0,0,0,0,1
+Chautauqua,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Chautauqua,2013,Crimes Against Persons,0,2,0,0,0,0,0,2
+Chautauqua,2013,Property Crimes,0,1,0,0,0,0,0,1
+Chautauqua,2015,Crimes Against Persons,0,1,0,0,0,0,0,1
+Chemung,2010,Crimes Against Persons,0,0,0,0,0,0,0,0
+Chemung,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Chemung,2016,Crimes Against Persons,0,1,0,0,0,0,0,1
+Chemung,2016,Property Crimes,0,0,0,0,0,0,0,0
+Chenango,2010,Crimes Against Persons,0,2,0,0,0,0,0,2
+Chenango,2010,Property Crimes,0,0,0,0,0,0,0,0
+Chenango,2012,Crimes Against Persons,0,1,0,0,0,0,0,1
+Chenango,2014,Property Crimes,0,1,0,0,0,0,0,1
+Chenango,2016,Crimes Against Persons,0,2,0,0,0,0,0,2
+Chenango,2017,Crimes Against Persons,0,0,0,0,0,0,0,0
+Clinton,2010,Crimes Against Persons,0,1,0,0,0,0,0,1
+Clinton,2010,Property Crimes,0,1,0,0,0,0,0,1
+Clinton,2011,Crimes Against Persons,0,2,0,0,0,0,0,2
+Clinton,2011,Property Crimes,0,0,0,0,0,0,0,0
+Clinton,2012,Crimes Against Persons,0,0,0,1,0,0,0,1
+Clinton,2014,Property Crimes,0,1,0,0,0,0,0,1
+Clinton,2016,Property Crimes,0,1,0,0,0,0,0,1
+Clinton,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Clinton,2017,Property Crimes,0,2,0,0,0,2,0,4
+Clinton,2018,Crimes Against Persons,0,1,0,0,0,0,0,1
+Clinton,2019,Crimes Against Persons,0,1,0,0,0,0,0,1
+Clinton,2019,Property Crimes,0,1,0,0,0,0,0,1
+Columbia,2010,Crimes Against Persons,0,0,0,0,0,0,0,0
+Columbia,2010,Property Crimes,0,0,0,0,0,0,0,0
+Columbia,2011,Property Crimes,0,1,0,0,0,0,0,1
+Columbia,2012,Crimes Against Persons,0,0,0,0,0,0,0,0
+Columbia,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Columbia,2017,Crimes Against Persons,0,0,0,0,0,0,0,0
+Columbia,2017,Property Crimes,0,1,0,0,0,0,0,1
+Cortland,2010,Crimes Against Persons,0,2,0,0,0,0,0,2
+Cortland,2010,Property Crimes,0,0,0,0,0,0,0,0
+Cortland,2011,Crimes Against Persons,0,0,0,0,0,0,0,0
+Cortland,2012,Crimes Against Persons,0,0,0,0,0,0,0,0
+Cortland,2013,Crimes Against Persons,0,1,0,0,0,0,0,1
+Cortland,2013,Property Crimes,0,1,0,0,0,0,0,1
+Cortland,2014,Property Crimes,0,0,0,0,0,0,0,0
+Cortland,2019,Crimes Against Persons,0,1,0,0,0,0,0,1
+Cortland,2019,Property Crimes,0,0,0,0,0,0,0,0
+Delaware,2015,Crimes Against Persons,0,0,0,0,0,0,0,0
+Delaware,2017,Property Crimes,0,0,0,0,0,0,0,0
+Dutchess,2010,Crimes Against Persons,1,3,0,0,0,0,0,4
+Dutchess,2010,Property Crimes,0,0,0,0,0,0,0,0
+Dutchess,2011,Crimes Against Persons,1,3,0,0,0,0,0,4
+Dutchess,2011,Property Crimes,0,2,0,0,0,1,0,3
+Dutchess,2012,Crimes Against Persons,0,4,0,0,0,0,0,4
+Dutchess,2012,Property Crimes,0,2,0,0,0,0,0,2
+Dutchess,2013,Crimes Against Persons,0,2,0,0,0,0,0,2
+Dutchess,2013,Property Crimes,0,1,0,0,0,0,0,1
+Dutchess,2014,Crimes Against Persons,0,2,0,0,0,0,0,2
+Dutchess,2015,Crimes Against Persons,0,2,0,0,0,0,0,2
+Dutchess,2015,Property Crimes,0,0,0,0,0,0,0,0
+Dutchess,2016,Crimes Against Persons,0,0,0,0,0,0,0,0
+Dutchess,2017,Crimes Against Persons,0,2,0,0,0,0,0,2
+Dutchess,2017,Property Crimes,0,0,0,0,0,0,0,0
+Dutchess,2018,Property Crimes,0,0,0,0,0,0,0,0
+Dutchess,2019,Crimes Against Persons,0,2,0,0,0,0,0,2
+Dutchess,2019,Property Crimes,0,2,0,0,0,0,0,2
+Erie,2010,Crimes Against Persons,11,18,0,0,0,1,0,30
+Erie,2010,Property Crimes,1,3,0,2,0,0,0,6
+Erie,2011,Crimes Against Persons,3,10,0,0,0,0,0,13
+Erie,2011,Property Crimes,0,2,0,0,0,0,0,2
+Erie,2012,Crimes Against Persons,9,18,0,4,0,0,0,31
+Erie,2012,Property Crimes,1,1,0,0,0,0,0,2
+Erie,2013,Crimes Against Persons,6,7,0,0,0,0,0,13
+Erie,2013,Property Crimes,0,4,0,0,0,0,0,4
+Erie,2014,Crimes Against Persons,2,8,0,0,0,0,0,10
+Erie,2014,Property Crimes,0,4,0,0,0,0,0,4
+Erie,2015,Crimes Against Persons,1,2,0,0,0,0,0,3
+Erie,2015,Property Crimes,0,2,0,0,0,1,0,3
+Erie,2016,Crimes Against Persons,2,5,0,1,0,0,0,8
+Erie,2016,Property Crimes,0,3,0,0,0,0,0,3
+Erie,2017,Crimes Against Persons,1,2,0,0,0,0,0,3
+Erie,2017,Property Crimes,1,2,0,0,0,1,0,4
+Erie,2018,Crimes Against Persons,1,6,0,0,0,0,0,7
+Erie,2018,Property Crimes,0,4,0,0,0,0,0,4
+Erie,2019,Crimes Against Persons,1,0,0,0,0,0,0,1
+Erie,2019,Property Crimes,0,5,0,0,0,0,0,5
+Essex,2010,Crimes Against Persons,0,0,0,1,0,0,0,1
+Essex,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Essex,2014,Crimes Against Persons,0,1,0,0,0,0,0,1
+Essex,2014,Property Crimes,0,1,0,0,0,0,0,1
+Essex,2016,Property Crimes,0,1,0,0,0,0,0,1
+Franklin,2010,Crimes Against Persons,0,1,0,0,0,0,0,1
+Franklin,2012,Crimes Against Persons,0,2,0,0,0,0,0,2
+Franklin,2013,Property Crimes,0,1,0,0,0,0,0,1
+Franklin,2015,Crimes Against Persons,0,2,0,0,0,0,0,2
+Franklin,2016,Crimes Against Persons,0,0,0,0,0,0,0,0
+Franklin,2017,Crimes Against Persons,0,0,0,0,0,0,0,0
+Fulton,2012,Crimes Against Persons,0,1,0,0,0,0,0,1
+Genesee,2013,Crimes Against Persons,0,1,0,0,0,0,0,1
+Genesee,2017,Property Crimes,0,1,0,0,0,0,0,1
+Greene,2015,Crimes Against Persons,0,1,0,0,0,0,0,1
+Greene,2017,Property Crimes,0,1,0,0,0,0,0,1
+Hamilton,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Herkimer,2010,Crimes Against Persons,0,1,0,0,0,0,0,1
+Herkimer,2013,Property Crimes,0,1,0,0,0,0,0,1
+Herkimer,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Herkimer,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Herkimer,2018,Crimes Against Persons,0,0,0,0,0,0,0,0
+Herkimer,2019,Property Crimes,0,0,0,0,0,0,0,0
+Jefferson,2012,Crimes Against Persons,0,1,0,0,0,0,0,1
+Jefferson,2013,Crimes Against Persons,0,0,0,0,0,0,0,0
+Jefferson,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Jefferson,2016,Crimes Against Persons,0,0,0,0,0,0,0,0
+Jefferson,2016,Property Crimes,0,0,0,0,0,0,0,0
+Kings,2010,Crimes Against Persons,3,10,0,0,0,0,0,13
+Kings,2010,Property Crimes,0,6,0,1,0,3,0,10
+Kings,2011,Crimes Against Persons,1,6,0,0,0,0,0,7
+Kings,2011,Property Crimes,0,2,0,0,0,0,0,2
+Kings,2012,Crimes Against Persons,1,6,0,0,0,0,0,7
+Kings,2012,Property Crimes,1,4,0,0,0,1,0,6
+Kings,2013,Crimes Against Persons,4,4,0,2,0,0,0,10
+Kings,2013,Property Crimes,0,2,0,0,0,1,0,3
+Kings,2014,Crimes Against Persons,1,4,0,0,0,0,0,5
+Kings,2014,Property Crimes,1,0,0,0,0,0,0,1
+Kings,2015,Crimes Against Persons,3,6,0,2,0,0,0,11
+Kings,2015,Property Crimes,0,2,0,0,0,0,0,2
+Kings,2016,Crimes Against Persons,6,4,0,1,0,0,0,11
+Kings,2016,Property Crimes,1,2,0,0,0,0,0,3
+Kings,2017,Crimes Against Persons,2,6,0,1,0,0,0,9
+Kings,2017,Property Crimes,0,3,0,1,0,0,0,4
+Kings,2018,Crimes Against Persons,5,3,0,1,0,0,0,9
+Kings,2018,Property Crimes,1,9,0,1,0,0,0,11
+Kings,2019,Crimes Against Persons,3,3,0,1,0,0,0,7
+Kings,2019,Property Crimes,1,10,0,0,0,0,0,11
+Lewis,2012,Crimes Against Persons,0,0,0,0,0,0,0,0
+Lewis,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Livingston,2011,Crimes Against Persons,0,1,0,1,0,0,0,2
+Livingston,2013,Crimes Against Persons,0,1,0,0,0,0,0,1
+Livingston,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Livingston,2016,Crimes Against Persons,0,0,0,0,0,0,0,0
+Livingston,2016,Property Crimes,0,1,0,0,0,0,0,1
+Livingston,2017,Crimes Against Persons,0,0,0,0,0,0,0,0
+Livingston,2017,Property Crimes,0,1,0,0,0,0,0,1
+Livingston,2018,Property Crimes,0,1,0,0,0,0,0,1
+Livingston,2019,Property Crimes,0,0,0,0,0,0,0,0
+Madison,2011,Crimes Against Persons,0,3,0,0,0,0,0,3
+Madison,2011,Property Crimes,0,1,0,0,0,0,0,1
+Madison,2012,Crimes Against Persons,0,1,0,0,0,0,0,1
+Madison,2012,Property Crimes,0,2,0,0,0,0,0,2
+Madison,2013,Crimes Against Persons,0,0,0,0,0,0,0,0
+Madison,2013,Property Crimes,0,0,0,0,0,0,0,0
+Madison,2014,Property Crimes,0,0,0,0,0,0,0,0
+Madison,2015,Property Crimes,0,1,0,0,0,0,0,1
+Madison,2016,Property Crimes,1,3,0,0,0,0,0,4
+Madison,2017,Property Crimes,0,2,0,0,0,0,0,2
+Madison,2019,Property Crimes,0,0,0,0,0,0,0,0
+Monroe,2010,Crimes Against Persons,2,3,0,1,0,0,0,6
+Monroe,2010,Property Crimes,0,1,0,0,0,0,0,1
+Monroe,2011,Crimes Against Persons,0,2,0,0,0,0,0,2
+Monroe,2011,Property Crimes,0,2,0,0,0,0,0,2
+Monroe,2012,Crimes Against Persons,0,1,0,1,0,0,0,2
+Monroe,2012,Property Crimes,0,0,0,0,0,0,0,0
+Monroe,2013,Crimes Against Persons,1,5,0,0,0,0,0,6
+Monroe,2013,Property Crimes,1,1,0,0,0,0,0,2
+Monroe,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Monroe,2014,Property Crimes,0,0,0,1,0,0,0,1
+Monroe,2015,Crimes Against Persons,0,1,0,0,0,0,0,1
+Monroe,2015,Property Crimes,0,1,0,0,0,0,0,1
+Monroe,2016,Crimes Against Persons,0,1,0,0,0,0,0,1
+Monroe,2016,Property Crimes,0,2,0,0,0,0,0,2
+Monroe,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Monroe,2017,Property Crimes,0,1,0,0,0,0,0,1
+Monroe,2018,Crimes Against Persons,0,3,0,0,0,0,0,3
+Monroe,2018,Property Crimes,0,1,0,0,0,0,0,1
+Monroe,2019,Crimes Against Persons,1,1,0,0,0,0,0,2
+Monroe,2019,Property Crimes,0,3,0,0,0,0,0,3
+Montgomery,2016,Property Crimes,0,1,0,0,0,0,0,1
+Montgomery,2019,Property Crimes,0,0,0,0,0,0,0,0
+Multiple,2010,Crimes Against Persons,1,1,0,0,0,0,0,2
+Multiple,2010,Property Crimes,0,5,0,0,0,0,0,5
+Multiple,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Multiple,2011,Property Crimes,0,9,0,0,0,0,0,9
+Multiple,2012,Property Crimes,0,8,0,0,0,0,0,8
+Multiple,2013,Crimes Against Persons,0,1,0,0,0,0,0,1
+Multiple,2013,Property Crimes,0,1,0,0,0,0,0,1
+Multiple,2014,Crimes Against Persons,1,0,0,0,0,0,0,1
+Multiple,2014,Property Crimes,0,5,0,0,0,0,0,5
+Multiple,2015,Property Crimes,0,5,0,0,0,0,0,5
+Multiple,2016,Crimes Against Persons,1,0,0,0,0,0,0,1
+Multiple,2016,Property Crimes,0,8,0,0,0,2,0,10
+Multiple,2017,Crimes Against Persons,1,0,0,0,0,0,0,1
+Multiple,2017,Property Crimes,0,7,0,4,0,4,0,15
+Multiple,2018,Crimes Against Persons,0,3,0,0,0,0,0,3
+Multiple,2018,Property Crimes,0,4,0,0,0,1,0,5
+Multiple,2019,Crimes Against Persons,0,2,0,0,0,0,0,2
+Multiple,2019,Property Crimes,1,5,0,0,0,1,0,7
+Nassau,2010,Crimes Against Persons,0,3,0,0,0,0,0,3
+Nassau,2010,Property Crimes,1,7,0,0,0,0,0,8
+Nassau,2011,Crimes Against Persons,1,5,0,0,0,0,0,6
+Nassau,2011,Property Crimes,0,9,0,1,0,0,0,10
+Nassau,2012,Crimes Against Persons,0,9,0,0,0,0,0,9
+Nassau,2012,Property Crimes,0,6,0,0,0,0,0,6
+Nassau,2013,Crimes Against Persons,0,3,0,1,0,0,0,4
+Nassau,2013,Property Crimes,0,6,0,1,0,0,0,7
+Nassau,2014,Crimes Against Persons,0,8,0,0,0,0,0,8
+Nassau,2014,Property Crimes,2,7,0,0,0,0,0,9
+Nassau,2015,Crimes Against Persons,0,2,0,0,0,0,0,2
+Nassau,2015,Property Crimes,0,3,0,0,0,1,0,4
+Nassau,2016,Crimes Against Persons,0,0,0,0,0,0,0,0
+Nassau,2016,Property Crimes,3,3,0,0,0,0,0,6
+Nassau,2017,Crimes Against Persons,1,3,0,0,0,0,0,4
+Nassau,2017,Property Crimes,0,5,0,0,0,0,0,5
+Nassau,2018,Crimes Against Persons,0,4,0,0,0,0,0,4
+Nassau,2018,Property Crimes,0,0,0,0,0,0,0,0
+Nassau,2019,Crimes Against Persons,0,3,0,0,0,0,0,3
+Nassau,2019,Property Crimes,0,3,0,0,0,0,0,3
+New York,2010,Crimes Against Persons,1,5,0,8,0,0,0,14
+New York,2010,Property Crimes,0,5,0,0,0,1,0,6
+New York,2011,Crimes Against Persons,0,1,0,2,0,0,0,3
+New York,2011,Property Crimes,0,2,0,0,0,1,0,3
+New York,2012,Crimes Against Persons,2,7,0,1,0,0,0,10
+New York,2012,Property Crimes,1,3,0,0,0,0,0,4
+New York,2013,Crimes Against Persons,4,6,0,2,0,0,0,12
+New York,2013,Property Crimes,0,2,0,1,0,0,0,3
+New York,2014,Crimes Against Persons,5,6,0,2,0,1,0,14
+New York,2014,Property Crimes,0,3,0,0,0,0,0,3
+New York,2015,Crimes Against Persons,3,6,0,6,0,0,0,15
+New York,2015,Property Crimes,0,1,0,0,0,0,0,1
+New York,2016,Crimes Against Persons,5,6,0,3,0,0,0,14
+New York,2016,Property Crimes,0,1,0,1,0,0,0,2
+New York,2017,Crimes Against Persons,3,9,0,3,0,0,0,15
+New York,2017,Property Crimes,1,5,0,0,0,0,0,6
+New York,2018,Crimes Against Persons,4,10,0,2,0,0,0,16
+New York,2018,Property Crimes,0,6,0,0,0,0,0,6
+New York,2019,Crimes Against Persons,16,2,0,0,0,1,0,19
+New York,2019,Property Crimes,2,10,0,0,0,0,0,12
+Niagara,2010,Crimes Against Persons,0,0,0,0,0,0,0,0
+Niagara,2010,Property Crimes,0,1,0,0,0,0,0,1
+Niagara,2011,Crimes Against Persons,0,2,0,0,0,0,0,2
+Niagara,2011,Property Crimes,0,1,0,0,0,0,0,1
+Niagara,2012,Crimes Against Persons,0,2,0,0,0,0,0,2
+Niagara,2013,Crimes Against Persons,1,1,0,0,0,0,0,2
+Niagara,2014,Property Crimes,0,0,0,0,0,0,0,0
+Niagara,2015,Property Crimes,0,0,0,0,0,0,0,0
+Niagara,2016,Crimes Against Persons,0,1,0,0,0,0,0,1
+Niagara,2016,Property Crimes,0,1,0,0,0,0,0,1
+Niagara,2017,Crimes Against Persons,1,0,0,0,0,0,0,1
+Niagara,2017,Property Crimes,0,1,0,0,0,0,0,1
+Niagara,2018,Property Crimes,0,1,0,0,0,0,0,1
+Niagara,2019,Property Crimes,0,0,0,1,0,0,0,1
+Oneida,2011,Property Crimes,0,1,0,0,0,0,0,1
+Oneida,2012,Crimes Against Persons,0,0,0,0,0,0,0,0
+Oneida,2013,Crimes Against Persons,0,2,0,0,0,0,0,2
+Oneida,2016,Crimes Against Persons,0,0,0,0,0,0,0,0
+Oneida,2017,Crimes Against Persons,0,0,0,0,0,0,0,0
+Oneida,2017,Property Crimes,0,0,0,0,0,0,0,0
+Oneida,2018,Crimes Against Persons,0,0,0,0,0,0,0,0
+Oneida,2019,Crimes Against Persons,0,1,0,0,0,0,0,1
+Oneida,2019,Property Crimes,0,1,0,0,0,0,0,1
+Onondaga,2010,Crimes Against Persons,0,0,0,0,0,0,0,0
+Onondaga,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Onondaga,2012,Crimes Against Persons,0,0,0,0,0,0,0,0
+Onondaga,2013,Property Crimes,0,2,0,0,0,0,0,2
+Onondaga,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Onondaga,2014,Property Crimes,0,1,0,0,0,0,0,1
+Onondaga,2015,Property Crimes,0,1,0,0,0,0,0,1
+Onondaga,2017,Property Crimes,0,0,0,0,0,0,0,0
+Onondaga,2018,Crimes Against Persons,0,0,0,0,0,0,0,0
+Onondaga,2018,Property Crimes,0,1,0,0,0,0,0,1
+Onondaga,2019,Crimes Against Persons,0,0,0,0,0,0,0,0
+Onondaga,2019,Property Crimes,0,0,0,0,0,0,0,0
+Ontario,2010,Crimes Against Persons,0,1,0,0,0,0,0,1
+Ontario,2011,Crimes Against Persons,0,0,0,0,0,0,0,0
+Ontario,2011,Property Crimes,0,1,0,0,0,0,0,1
+Ontario,2013,Crimes Against Persons,0,1,0,0,0,0,0,1
+Ontario,2014,Property Crimes,0,0,0,0,0,0,0,0
+Ontario,2018,Crimes Against Persons,0,0,0,0,0,0,0,0
+Ontario,2019,Property Crimes,0,1,0,0,0,0,0,1
+Orange,2010,Crimes Against Persons,2,4,0,0,0,0,0,6
+Orange,2010,Property Crimes,0,1,0,0,0,0,0,1
+Orange,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Orange,2011,Property Crimes,0,1,0,0,0,0,0,1
+Orange,2012,Crimes Against Persons,0,0,0,0,0,0,0,0
+Orange,2012,Property Crimes,0,0,0,0,0,0,0,0
+Orange,2013,Crimes Against Persons,0,1,0,0,0,0,0,1
+Orange,2013,Property Crimes,0,3,0,0,0,0,0,3
+Orange,2014,Crimes Against Persons,0,1,0,0,0,0,0,1
+Orange,2014,Property Crimes,0,1,0,0,0,0,0,1
+Orange,2015,Crimes Against Persons,0,0,0,0,0,0,0,0
+Orange,2015,Property Crimes,0,0,0,0,0,0,0,0
+Orange,2016,Crimes Against Persons,0,0,0,0,0,0,0,0
+Orange,2016,Property Crimes,0,0,0,0,0,0,0,0
+Orange,2017,Crimes Against Persons,1,2,0,0,0,0,0,3
+Orange,2017,Property Crimes,0,0,0,0,0,0,0,0
+Orange,2018,Crimes Against Persons,0,1,0,0,0,0,0,1
+Orange,2019,Crimes Against Persons,0,1,0,0,0,0,0,1
+Orange,2019,Property Crimes,0,1,0,0,0,0,0,1
+Orleans,2010,Crimes Against Persons,0,0,0,0,0,0,0,0
+Orleans,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Orleans,2015,Property Crimes,0,0,0,0,0,0,0,0
+Oswego,2010,Crimes Against Persons,0,1,0,0,0,0,0,1
+Oswego,2010,Property Crimes,0,0,0,0,0,0,0,0
+Oswego,2011,Property Crimes,0,1,0,0,0,0,0,1
+Oswego,2012,Crimes Against Persons,0,0,0,0,0,0,0,0
+Oswego,2013,Property Crimes,0,0,0,0,0,0,0,0
+Oswego,2014,Property Crimes,0,0,0,0,0,0,0,0
+Oswego,2015,Crimes Against Persons,0,1,0,0,0,0,0,1
+Oswego,2016,Crimes Against Persons,0,1,0,0,0,0,0,1
+Oswego,2016,Property Crimes,0,0,0,0,0,1,0,1
+Oswego,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Oswego,2018,Crimes Against Persons,0,0,0,0,0,0,0,0
+Oswego,2018,Property Crimes,0,0,0,0,0,0,0,0
+Oswego,2019,Property Crimes,0,0,0,0,0,0,0,0
+Otsego,2010,Crimes Against Persons,0,1,0,0,0,0,0,1
+Otsego,2011,Crimes Against Persons,0,3,0,0,0,0,0,3
+Otsego,2012,Crimes Against Persons,0,1,0,0,0,0,0,1
+Otsego,2013,Property Crimes,0,0,0,0,0,0,0,0
+Otsego,2014,Crimes Against Persons,0,1,0,0,0,0,0,1
+Otsego,2014,Property Crimes,0,0,0,0,0,0,0,0
+Otsego,2015,Crimes Against Persons,0,1,0,0,0,0,0,1
+Otsego,2015,Property Crimes,0,0,0,0,0,0,0,0
+Otsego,2016,Crimes Against Persons,0,1,0,0,0,0,0,1
+Putnam,2012,Crimes Against Persons,0,0,0,0,0,0,0,0
+Putnam,2013,Crimes Against Persons,0,0,0,0,0,0,0,0
+Putnam,2017,Crimes Against Persons,0,0,0,0,0,0,0,0
+Putnam,2017,Property Crimes,0,1,0,0,0,0,0,1
+Putnam,2018,Crimes Against Persons,0,0,0,0,0,0,0,0
+Queens,2010,Crimes Against Persons,0,3,0,1,0,0,0,4
+Queens,2010,Property Crimes,0,3,0,1,0,1,0,5
+Queens,2011,Crimes Against Persons,1,1,0,0,0,1,0,3
+Queens,2011,Property Crimes,0,5,1,0,0,1,0,7
+Queens,2012,Crimes Against Persons,1,1,0,1,0,0,0,3
+Queens,2012,Property Crimes,0,1,0,1,0,1,0,3
+Queens,2013,Crimes Against Persons,1,3,1,2,0,0,0,7
+Queens,2013,Property Crimes,0,0,0,0,0,1,0,1
+Queens,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Queens,2014,Property Crimes,0,2,0,0,0,0,0,2
+Queens,2015,Crimes Against Persons,2,2,0,0,0,0,0,4
+Queens,2015,Property Crimes,0,2,0,1,0,0,0,3
+Queens,2016,Crimes Against Persons,0,1,0,3,0,0,0,4
+Queens,2016,Property Crimes,1,6,0,0,0,0,0,7
+Queens,2017,Crimes Against Persons,1,0,0,1,0,0,0,2
+Queens,2017,Property Crimes,0,4,0,0,0,0,0,4
+Queens,2018,Crimes Against Persons,1,2,0,1,0,0,0,4
+Queens,2018,Property Crimes,0,4,0,0,0,0,0,4
+Queens,2019,Crimes Against Persons,0,2,0,0,0,0,0,2
+Queens,2019,Property Crimes,1,4,0,0,0,0,0,5
+Rensselaer,2010,Crimes Against Persons,1,1,0,0,0,0,0,2
+Rensselaer,2011,Property Crimes,0,1,0,0,0,0,0,1
+Rensselaer,2012,Property Crimes,0,1,0,0,0,0,0,1
+Rensselaer,2013,Crimes Against Persons,1,0,0,0,0,0,0,1
+Rensselaer,2013,Property Crimes,0,0,0,0,0,0,0,0
+Rensselaer,2015,Crimes Against Persons,0,0,0,1,0,0,0,1
+Rensselaer,2015,Property Crimes,0,0,0,0,0,0,0,0
+Rensselaer,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Rensselaer,2017,Property Crimes,0,0,0,0,0,0,0,0
+Rensselaer,2018,Property Crimes,0,0,0,0,0,0,0,0
+Richmond,2010,Crimes Against Persons,0,2,0,1,0,1,0,4
+Richmond,2010,Property Crimes,0,1,0,0,0,1,0,2
+Richmond,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Richmond,2011,Property Crimes,0,0,0,0,0,0,0,0
+Richmond,2012,Crimes Against Persons,0,3,0,0,0,0,0,3
+Richmond,2012,Property Crimes,0,0,0,0,0,0,0,0
+Richmond,2013,Crimes Against Persons,1,1,0,0,0,0,0,2
+Richmond,2013,Property Crimes,0,0,0,0,0,1,0,1
+Richmond,2014,Crimes Against Persons,0,2,0,0,0,0,0,2
+Richmond,2014,Property Crimes,0,3,0,0,0,0,0,3
+Richmond,2015,Crimes Against Persons,1,1,0,0,0,0,0,2
+Richmond,2015,Property Crimes,0,2,0,0,0,1,0,3
+Richmond,2016,Crimes Against Persons,1,0,0,0,0,0,0,1
+Richmond,2016,Property Crimes,0,0,0,0,0,0,0,0
+Richmond,2017,Crimes Against Persons,0,3,0,0,0,0,0,3
+Richmond,2017,Property Crimes,0,1,0,0,0,0,0,1
+Richmond,2018,Crimes Against Persons,5,2,0,0,0,0,0,7
+Richmond,2018,Property Crimes,0,0,0,0,0,0,0,0
+Richmond,2019,Crimes Against Persons,0,0,0,0,0,0,0,0
+Richmond,2019,Property Crimes,0,3,0,0,0,0,0,3
+Rockland,2010,Crimes Against Persons,0,2,0,0,0,0,0,2
+Rockland,2010,Property Crimes,0,1,0,0,0,0,0,1
+Rockland,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Rockland,2011,Property Crimes,0,0,0,0,0,0,0,0
+Rockland,2012,Crimes Against Persons,1,0,0,0,0,0,0,1
+Rockland,2012,Property Crimes,0,0,0,0,0,0,0,0
+Rockland,2013,Crimes Against Persons,0,2,0,0,0,0,0,2
+Rockland,2013,Property Crimes,0,0,0,0,0,0,0,0
+Rockland,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Rockland,2014,Property Crimes,0,0,0,0,0,1,0,1
+Rockland,2015,Property Crimes,0,1,0,0,0,0,0,1
+Rockland,2016,Crimes Against Persons,0,3,0,0,0,0,0,3
+Rockland,2016,Property Crimes,0,0,0,0,0,0,0,0
+Rockland,2017,Crimes Against Persons,0,0,0,0,0,0,0,0
+Rockland,2017,Property Crimes,0,0,0,0,0,0,0,0
+Rockland,2018,Crimes Against Persons,1,0,0,0,0,0,0,1
+Rockland,2018,Property Crimes,0,0,0,0,0,0,0,0
+Rockland,2019,Crimes Against Persons,0,0,0,0,0,0,0,0
+Rockland,2019,Property Crimes,0,0,0,0,0,0,0,0
+Saratoga,2010,Crimes Against Persons,0,2,0,1,0,1,0,4
+Saratoga,2010,Property Crimes,0,1,0,0,0,0,0,1
+Saratoga,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Saratoga,2011,Property Crimes,0,1,0,0,0,0,0,1
+Saratoga,2012,Crimes Against Persons,0,2,0,0,0,0,0,2
+Saratoga,2012,Property Crimes,0,0,0,0,0,0,0,0
+Saratoga,2013,Crimes Against Persons,0,1,0,0,0,0,0,1
+Saratoga,2013,Property Crimes,0,0,0,0,0,0,0,0
+Saratoga,2015,Crimes Against Persons,0,1,0,0,0,0,0,1
+Saratoga,2016,Property Crimes,0,0,0,0,0,0,0,0
+Saratoga,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Saratoga,2018,Crimes Against Persons,0,0,0,0,0,0,0,0
+Saratoga,2019,Crimes Against Persons,0,0,1,0,0,0,0,1
+Saratoga,2019,Property Crimes,0,1,0,0,0,0,0,1
+Schenectady,2010,Crimes Against Persons,2,2,0,0,0,0,0,4
+Schenectady,2011,Crimes Against Persons,0,1,0,0,0,1,0,2
+Schenectady,2015,Crimes Against Persons,0,0,0,0,0,0,0,0
+Schenectady,2016,Property Crimes,0,0,0,0,0,0,0,0
+Schenectady,2017,Crimes Against Persons,0,0,0,0,0,0,0,0
+Schenectady,2019,Property Crimes,0,1,0,0,0,0,0,1
+Schoharie,2012,Property Crimes,0,2,0,0,0,0,0,2
+Schoharie,2013,Crimes Against Persons,0,0,0,0,0,0,0,0
+Schoharie,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Schoharie,2016,Crimes Against Persons,0,0,0,0,0,0,0,0
+Schoharie,2016,Property Crimes,0,0,0,0,0,0,0,0
+Schoharie,2017,Property Crimes,0,1,0,0,0,0,0,1
+Schoharie,2018,Crimes Against Persons,0,2,0,0,0,0,0,2
+Schoharie,2019,Crimes Against Persons,0,0,0,0,0,0,0,0
+Schuyler,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Seneca,2010,Property Crimes,0,1,0,0,0,0,0,1
+Seneca,2012,Crimes Against Persons,0,0,0,0,0,0,0,0
+Seneca,2018,Crimes Against Persons,0,1,0,0,0,0,0,1
+St. Lawrence,2010,Crimes Against Persons,0,1,0,0,0,0,0,1
+St. Lawrence,2011,Crimes Against Persons,0,0,0,0,0,0,0,0
+St. Lawrence,2013,Crimes Against Persons,0,0,0,0,0,0,0,0
+St. Lawrence,2013,Property Crimes,0,2,0,0,0,0,0,2
+St. Lawrence,2014,Crimes Against Persons,0,1,0,0,0,0,0,1
+St. Lawrence,2014,Property Crimes,0,0,0,0,0,0,0,0
+St. Lawrence,2015,Crimes Against Persons,0,1,0,0,0,0,0,1
+St. Lawrence,2015,Property Crimes,0,0,0,0,0,0,0,0
+St. Lawrence,2016,Crimes Against Persons,0,0,0,0,0,0,0,0
+St. Lawrence,2018,Crimes Against Persons,0,0,0,1,0,0,0,1
+St. Lawrence,2019,Crimes Against Persons,0,1,0,0,0,0,0,1
+Steuben,2010,Crimes Against Persons,1,0,0,0,0,0,0,1
+Steuben,2013,Crimes Against Persons,0,0,0,0,0,0,0,0
+Steuben,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Suffolk,2010,Crimes Against Persons,1,7,0,1,0,0,0,9
+Suffolk,2010,Property Crimes,0,3,0,0,0,0,0,3
+Suffolk,2011,Crimes Against Persons,1,3,0,0,0,0,0,4
+Suffolk,2011,Property Crimes,0,3,0,0,0,0,0,3
+Suffolk,2012,Crimes Against Persons,1,8,0,0,0,0,0,9
+Suffolk,2012,Property Crimes,0,18,0,1,0,0,0,19
+Suffolk,2013,Crimes Against Persons,1,7,0,0,0,0,0,8
+Suffolk,2013,Property Crimes,2,16,0,0,0,0,0,18
+Suffolk,2014,Crimes Against Persons,0,2,0,1,0,0,0,3
+Suffolk,2014,Property Crimes,0,13,0,0,0,0,0,13
+Suffolk,2015,Crimes Against Persons,0,5,0,1,0,0,0,6
+Suffolk,2015,Property Crimes,0,4,0,1,0,0,0,5
+Suffolk,2016,Crimes Against Persons,0,2,0,1,0,0,0,3
+Suffolk,2016,Property Crimes,0,5,0,0,0,0,0,5
+Suffolk,2017,Crimes Against Persons,0,3,0,1,0,0,0,4
+Suffolk,2017,Property Crimes,0,4,0,0,0,0,0,4
+Suffolk,2018,Crimes Against Persons,1,3,0,1,0,0,0,5
+Suffolk,2018,Property Crimes,1,1,0,0,0,0,0,2
+Suffolk,2019,Crimes Against Persons,1,2,0,1,0,0,0,4
+Suffolk,2019,Property Crimes,0,2,0,0,0,0,0,2
+Sullivan,2010,Crimes Against Persons,0,1,0,0,0,0,0,1
+Sullivan,2010,Property Crimes,1,0,0,0,0,0,0,1
+Sullivan,2011,Property Crimes,0,0,0,0,0,0,0,0
+Sullivan,2013,Property Crimes,0,0,0,0,0,0,0,0
+Sullivan,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Sullivan,2017,Property Crimes,0,1,0,0,0,0,0,1
+Sullivan,2019,Property Crimes,0,0,0,0,0,0,0,0
+Tioga,2010,Property Crimes,0,0,0,0,0,0,0,0
+Tioga,2013,Crimes Against Persons,0,0,0,0,0,0,0,0
+Tioga,2015,Crimes Against Persons,0,1,0,0,0,0,0,1
+Tioga,2017,Property Crimes,0,0,0,0,0,0,0,0
+Tioga,2019,Property Crimes,0,1,0,0,0,0,0,1
+Tompkins,2010,Crimes Against Persons,0,2,0,1,0,0,0,3
+Tompkins,2012,Crimes Against Persons,1,0,0,1,0,0,0,2
+Tompkins,2012,Property Crimes,0,0,0,0,0,0,0,0
+Tompkins,2013,Crimes Against Persons,0,0,0,1,0,0,0,1
+Tompkins,2013,Property Crimes,0,0,0,0,0,0,0,0
+Tompkins,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Tompkins,2014,Property Crimes,0,1,0,0,0,0,0,1
+Tompkins,2015,Property Crimes,0,0,0,0,0,0,0,0
+Tompkins,2016,Crimes Against Persons,0,0,0,0,0,0,0,0
+Tompkins,2016,Property Crimes,0,0,0,0,0,0,0,0
+Tompkins,2017,Crimes Against Persons,0,2,0,0,0,0,0,2
+Tompkins,2017,Property Crimes,0,0,0,0,0,0,0,0
+Tompkins,2018,Property Crimes,0,0,0,0,0,0,0,0
+Ulster,2010,Crimes Against Persons,0,1,0,1,0,1,0,3
+Ulster,2010,Property Crimes,0,0,0,0,0,0,0,0
+Ulster,2011,Crimes Against Persons,0,0,0,0,0,0,0,0
+Ulster,2011,Property Crimes,0,3,0,0,0,0,0,3
+Ulster,2012,Property Crimes,0,0,0,0,0,0,0,0
+Ulster,2013,Crimes Against Persons,0,3,0,0,0,0,0,3
+Ulster,2013,Property Crimes,0,0,0,0,0,0,0,0
+Ulster,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Ulster,2015,Property Crimes,0,0,0,0,0,0,0,0
+Ulster,2016,Crimes Against Persons,0,1,0,0,0,0,0,1
+Ulster,2016,Property Crimes,1,1,0,0,0,0,0,2
+Ulster,2017,Crimes Against Persons,0,0,0,0,0,0,0,0
+Ulster,2017,Property Crimes,0,0,0,0,0,0,0,0
+Ulster,2018,Crimes Against Persons,0,0,0,0,0,0,0,0
+Ulster,2018,Property Crimes,0,1,0,0,0,0,0,1
+Ulster,2019,Crimes Against Persons,0,0,0,0,0,0,0,0
+Ulster,2019,Property Crimes,0,1,0,0,0,0,0,1
+Warren,2012,Property Crimes,0,0,0,0,0,0,0,0
+Warren,2015,Crimes Against Persons,0,0,0,0,0,0,0,0
+Warren,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Washington,2010,Crimes Against Persons,0,0,0,0,0,0,0,0
+Washington,2012,Crimes Against Persons,0,2,0,0,0,0,0,2
+Washington,2014,Crimes Against Persons,0,0,0,0,0,0,0,0
+Washington,2014,Property Crimes,0,0,0,0,0,0,0,0
+Wayne,2010,Crimes Against Persons,0,2,0,0,0,0,0,2
+Wayne,2011,Crimes Against Persons,0,1,0,0,0,0,0,1
+Wayne,2014,Property Crimes,0,1,0,0,0,0,0,1
+Wayne,2016,Property Crimes,0,1,0,0,0,0,0,1
+Wayne,2017,Crimes Against Persons,0,1,0,0,0,0,0,1
+Wayne,2017,Property Crimes,0,0,0,0,0,0,0,0
+Wayne,2018,Crimes Against Persons,0,1,0,0,0,0,0,1
+Wayne,2018,Property Crimes,0,2,0,0,0,0,0,2
+Wayne,2019,Property Crimes,0,0,0,0,0,0,0,0
+Westchester,2010,Crimes Against Persons,1,3,0,0,0,0,0,4
+Westchester,2010,Property Crimes,1,1,0,0,0,0,0,2
+Westchester,2011,Crimes Against Persons,2,5,0,1,0,0,0,8
+Westchester,2011,Property Crimes,0,2,0,0,0,1,0,3
+Westchester,2012,Crimes Against Persons,1,2,0,0,0,0,0,3
+Westchester,2012,Property Crimes,0,1,0,0,0,0,0,1
+Westchester,2013,Crimes Against Persons,0,3,0,0,0,0,0,3
+Westchester,2013,Property Crimes,0,1,0,0,0,0,0,1
+Westchester,2014,Crimes Against Persons,1,3,0,0,0,0,0,4
+Westchester,2014,Property Crimes,0,0,0,0,0,0,0,0
+Westchester,2015,Crimes Against Persons,0,2,0,0,0,0,0,2
+Westchester,2015,Property Crimes,0,4,0,0,0,0,0,4
+Westchester,2016,Recode Me,0,0,0,0,0,0,0,0
+Westchester,2016,Crimes Against Persons,0,1,0,0,0,0,0,1
+Westchester,2016,Property Crimes,0,0,0,0,0,0,0,0
+Westchester,2017,Crimes Against Persons,1,2,0,0,0,0,0,3
+Westchester,2017,Property Crimes,1,2,0,0,0,1,0,4
+Westchester,2018,Crimes Against Persons,1,2,0,0,0,0,0,3
+Westchester,2018,Property Crimes,1,1,0,0,0,0,0,2
+Westchester,2019,Crimes Against Persons,3,1,0,2,0,0,0,6
+Westchester,2019,Property Crimes,0,2,0,0,0,0,0,2
+,,,,,,,,,,
