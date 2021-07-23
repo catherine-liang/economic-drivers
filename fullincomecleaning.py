@@ -13,7 +13,7 @@ yearend = 2016
 worklist = []
 currentlist =[]
 found = 0
-inflation = [1,1.04169609, 1.05902984,1.07760964,1.09994139, 1.10130280, 1.11228639]
+inflation = [1,1.04169609, 1.05902984,1.07760964,1.09994139, 1.10130280, 1.11228639]            #https://www.bls.gov/data/inflation_calculator.htm
 
 for i in range(yearstart, yearend+1, 1):                                                        #for each year load in income data for total and private, county level, 
     
